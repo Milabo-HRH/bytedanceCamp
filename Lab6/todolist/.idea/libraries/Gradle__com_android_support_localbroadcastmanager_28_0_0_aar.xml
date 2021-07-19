@@ -1,0 +1,18 @@
+<component name="libraryTable">
+  <library name="Gradle: com.android.support:localbroadcastmanager:28.0.0@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/24e92546b472b6f86b9c143676f2a3a7/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/24e92546b472b6f86b9c143676f2a3a7/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/24e92546b472b6f86b9c143676f2a3a7/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/1514a5a925259a86ed265f74f8001a21/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/1514a5a925259a86ed265f74f8001a21/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/1514a5a925259a86ed265f74f8001a21/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../../../Download/gradle-6.7.1-all/gradle-6.7.1/caches/transforms-2/files-2.1/b59c52af764e35d7cba365b451a6db31/res" />
+      <root url="jar://$PROJECT_DIR$/../../../../Download/gradle-6.7.1-all/gradle-6.7.1/caches/transforms-2/files-2.1/4fa7a302838cab92b7d0a68a68cffd6f/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../../../Download/gradle-6.7.1-all/gradle-6.7.1/caches/transforms-2/files-2.1/4fa7a302838cab92b7d0a68a68cffd6f/res" />
+      <root url="file://$PROJECT_DIR$/../../../../Download/gradle-6.7.1-all/gradle-6.7.1/caches/transforms-2/files-2.1/4fa7a302838cab92b7d0a68a68cffd6f/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,23 @@
+<component name="libraryTable">
+  <library name="Gradle: com.android.support:support-fragment:28.0.0@aar">
+    <ANNOTATIONS>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/a52b48286d2633254ea0d1fb33ffc746/annotations.zip!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/f6f62c1a9c4bf412658069ee0dd0db0b/annotations.zip!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../Download/gradle-6.7.1-all/gradle-6.7.1/caches/transforms-2/files-2.1/11b6653419e29895fe5131ae91656636/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/a52b48286d2633254ea0d1fb33ffc746/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/a52b48286d2633254ea0d1fb33ffc746/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/a52b48286d2633254ea0d1fb33ffc746/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/f6f62c1a9c4bf412658069ee0dd0db0b/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/f6f62c1a9c4bf412658069ee0dd0db0b/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/f6f62c1a9c4bf412658069ee0dd0db0b/AndroidManifest.xml" />
+      <root url="file://$PROJECT_DIR$/../../../../Download/gradle-6.7.1-all/gradle-6.7.1/caches/transforms-2/files-2.1/0e171ac52d52e5c98ea0b8550b61bec1/res" />
+      <root url="file://$PROJECT_DIR$/../../../../Download/gradle-6.7.1-all/gradle-6.7.1/caches/transforms-2/files-2.1/11b6653419e29895fe5131ae91656636/res" />
+      <root url="file://$PROJECT_DIR$/../../../../Download/gradle-6.7.1-all/gradle-6.7.1/caches/transforms-2/files-2.1/11b6653419e29895fe5131ae91656636/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/../../../../Download/gradle-6.7.1-all/gradle-6.7.1/caches/transforms-2/files-2.1/11b6653419e29895fe5131ae91656636/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

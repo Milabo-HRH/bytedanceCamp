@@ -1,0 +1,18 @@
+<component name="libraryTable">
+  <library name="Gradle: com.android.support:asynclayoutinflater:28.0.0@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/72a40440d6f115fa44bc90c6a7bc1a2a/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/72a40440d6f115fa44bc90c6a7bc1a2a/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/72a40440d6f115fa44bc90c6a7bc1a2a/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/a3170de4bcf20c38f19292c5b9914e9c/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/a3170de4bcf20c38f19292c5b9914e9c/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/a3170de4bcf20c38f19292c5b9914e9c/AndroidManifest.xml" />
+      <root url="file://$PROJECT_DIR$/../../../../Download/gradle-6.7.1-all/gradle-6.7.1/caches/transforms-2/files-2.1/4001554c358a33094c8b39a3a483fdf8/res" />
+      <root url="file://$PROJECT_DIR$/../../../../Download/gradle-6.7.1-all/gradle-6.7.1/caches/transforms-2/files-2.1/e000daee7708d466c85b72ecd9f6879d/res" />
+      <root url="file://$PROJECT_DIR$/../../../../Download/gradle-6.7.1-all/gradle-6.7.1/caches/transforms-2/files-2.1/e000daee7708d466c85b72ecd9f6879d/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/../../../../Download/gradle-6.7.1-all/gradle-6.7.1/caches/transforms-2/files-2.1/e000daee7708d466c85b72ecd9f6879d/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
